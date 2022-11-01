@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm a front-end engineer. Currently advancing my skills in Javascript and it's frameworks. More projects coming soon
+I'm a front-end engineer. Currently advancing my skills in Javascript and ReactJS
 
 
 ## 🌐 Socials:
