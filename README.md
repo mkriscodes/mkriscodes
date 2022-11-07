@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+# About Me:
 I'm a front-end engineer. Currently advancing my skills in Javascript and ReactJS
 
 
