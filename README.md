@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 # About Me:
-I'm a Front-End Developer. Currently advancing my skills in Javascript and ReactJS
-
+A Developer with a background in Computer Science.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mary-w-6b165a218) 
