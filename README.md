@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 # About Me:
 A Developer with a background in Computer Science.
